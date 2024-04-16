@@ -1,0 +1,4 @@
+mkdir lambda1
+cd lambda1
+pip3 install scikit-learn -t .
+zip -r ../lambda1.zip .
