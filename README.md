@@ -8,11 +8,8 @@ Files demo AWS-Lambda --> folder aws/01lambda
 - commands.txt ---> Commands for the AWS console
 - lr.pkl ---> Model exported in pickle
 - program.py ---> Program for the lambda function
-- Demo in Youtube:
+- aws01.mp4 ---> Instructional Video
+- Demo in Youtube -------------->
 
 [![Youtube demo](https://github.com/emericjimenez/cloud/blob/main/aws/01lambda/aws.jpg)](https://www.youtube.com/watch?v=fwwC5IJxZ7w)
 
-
-
-
-Video: ![Download Instructional Video](https://raw.githubusercontent.com/emericjimenez/cloud/main/aws/01lambda/aws01.mp4)
