@@ -9,7 +9,7 @@ Files demo AWS-Lambda --> folder aws/01lambda
 - lr.pkl ---> Model exported in pickle
 - program.py ---> Program for the lambda function
 - aws01.mp4 ---> Instructional Video
-- Demo in Youtube --------------> Click image AWS
+- Demo in Youtube --------------> Click AWS image
 
 [![Youtube demo](https://github.com/emericjimenez/cloud/blob/main/aws/01lambda/aws.jpg)](https://www.youtube.com/watch?v=fwwC5IJxZ7w)
 
@@ -23,6 +23,6 @@ Files demo AWS-Lambda --> folder aws/01lambda
 - notebookadfea360c5.ipynb ---> Notebook
 - requirements.txt ---> Python packages
 - xg_model.pkl ---> Model exported in pickle
-- Demo in Youtube --------------> Click image AWS
+- Demo in Youtube --------------> Click AWS image
 
 [![Youtube demo](https://github.com/emericjimenez/cloud/blob/main/aws/01lambda/aws.jpg)](https://youtu.be/7RhY-yVECXg)
