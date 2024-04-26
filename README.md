@@ -2,6 +2,8 @@
 # -----> aws, gpc, azure and more <-----
 # 1.- Deployment of predictive models in AWS Lambda.
 Files demo AWS-Lambda --> folder aws/01lambda
+
+[FOLDER LIGHTSAIL](https://github.com/emericjimenez/cloud/tree/main/aws/01lambda)
 - linear.ipynb ---> Notebook for Linear Regression
 - Real estate.csv ---> Data for Linear Regression
 - api_aws.php ---> PHP example to consume api generated in AWS
@@ -15,6 +17,7 @@ Files demo AWS-Lambda --> folder aws/01lambda
 
 # 2.- Deployment of predictive models in AWS Lightsail.
 Files demo AWS-Lightsail --> folder aws/02lightsail
+
 [FOLDER LIGHTSAIL](https://github.com/emericjimenez/cloud/tree/main/aws/02lightsail)
 - aws_01.php ---> PHP example to consume api generated in AWS
 - commands.txt ---> Commands for Visual Studio Code console
