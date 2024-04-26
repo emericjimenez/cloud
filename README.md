@@ -15,6 +15,7 @@ Files demo AWS-Lambda --> folder aws/01lambda
 
 # 2.- Deployment of predictive models in AWS Lightsail.
 Files demo AWS-Lightsail --> folder aws/02lightsail
+[FOLDER LIGHTSAIL](https://github.com/emericjimenez/cloud/tree/main/aws/02lightsail)
 - aws_01.php ---> PHP example to consume api generated in AWS
 - commands.txt ---> Commands for Visual Studio Code console
 - docker-compose.yml ---> Define the services 
