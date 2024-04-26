@@ -20,7 +20,7 @@ Files demo AWS-Lambda --> folder aws/01lambda
 - Dockerfile ---> Run commands
 - lighsail.mp4 ---> Instructional Video
 - main.py ---> Sample program for FastApi
-- notebookadfea360c5.ipynb ---> Notebook
+- notebookadfea360c5.ipynb ---> Notebook of Kaggle
 - requirements.txt ---> Python packages
 - xg_model.pkl ---> Model exported in pickle
 - Demo in Youtube --------------> Click AWS image
