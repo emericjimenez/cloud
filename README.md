@@ -3,7 +3,7 @@
 # 1.- Deployment of predictive models in AWS Lambda.
 Files demo AWS-Lambda --> folder aws/01lambda
 
-[FOLDER LIGHTSAIL](https://github.com/emericjimenez/cloud/tree/main/aws/01lambda)
+[FOLDER LAMBDA](https://github.com/emericjimenez/cloud/tree/main/aws/01lambda)
 - linear.ipynb ---> Notebook for Linear Regression
 - Real estate.csv ---> Data for Linear Regression
 - api_aws.php ---> PHP example to consume api generated in AWS
