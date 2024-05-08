@@ -1,7 +1,7 @@
 docker login
 docker build . -t xg_b01
 docker tag xg_b01 emericdocker/xg_boost:1.0.1
-docker pull emericdocker/xg_boost:1.0.1
+docker push emericdocker/xg_boost:1.0.1
 
 ----------> in localhost for Windows
 docker run -p 8080:5000 emericdocker/xg_boost:1.0.1
