@@ -2,7 +2,7 @@
 # -----> aws, gpc, azure and more <-----
 # 1.- Deployment of predictive models in AWS Lambda.
 
- <a href="#first">2.- Deployment of predictive models in AWS Lightsail.</a>
+# <a href="#first">2.- Deployment of predictive models in AWS Lightsail.</a>
 
 Files demo AWS-Lambda --> folder aws/01lambda
 
