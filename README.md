@@ -6,6 +6,7 @@
 # <h2 id="01">1.- Deployment of predictive models in AWS Lambda.</h2>
 Files demo AWS-Lambda --> folder aws/01lambda
 
+<a href="https://github.com/emericjimenez/cloud/tree/main/aws/01lambda">FOLDER LAMBDA.</a>
 [FOLDER LAMBDA](https://github.com/emericjimenez/cloud/tree/main/aws/01lambda)
 - linear.ipynb ---> Notebook for Linear Regression
 - Real estate.csv ---> Data for Linear Regression
