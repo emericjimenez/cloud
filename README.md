@@ -6,8 +6,8 @@
 # <h2 id="01">1.- Deployment of predictive models in AWS Lambda.</h2>
 Files demo AWS-Lambda --> folder aws/01lambda
 
-<a href="https://github.com/emericjimenez/cloud/tree/main/aws/01lambda">FOLDER LAMBDA.</a>
-[FOLDER LAMBDA](https://github.com/emericjimenez/cloud/tree/main/aws/01lambda)
+<a href="https://github.com/emericjimenez/cloud/tree/main/aws/01lambda" target="_blank">FOLDER LAMBDA.</a>
+
 - linear.ipynb ---> Notebook for Linear Regression
 - Real estate.csv ---> Data for Linear Regression
 - api_aws.php ---> PHP example to consume api generated in AWS
@@ -22,7 +22,8 @@ Files demo AWS-Lambda --> folder aws/01lambda
 # <h2 id="02">2.- Deployment of predictive models in AWS Lightsail.</h2>
 Files demo AWS-Lightsail --> folder aws/02lightsail
 
-[FOLDER LIGHTSAIL](https://github.com/emericjimenez/cloud/tree/main/aws/02lightsail)
+<a href="(https://github.com/emericjimenez/cloud/tree/main/aws/02lightsail" target="_blank">FOLDER LIGHTSAIL.</a>
+
 - aws_01.php ---> PHP example to consume api generated in AWS
 - commands.txt ---> Commands for Visual Studio Code console
 - docker-compose.yml ---> Define the services 
